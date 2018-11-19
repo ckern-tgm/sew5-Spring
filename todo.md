@@ -1,3 +1,3 @@
 # Todos
-- [ ] Mercury
-- [x]Git Repo fahren & upstream pushen
+- [ ] Git Repo fahren & upstream pushen
+- [x] Finish my changes
